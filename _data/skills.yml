@@ -1,18 +1,17 @@
 languages:
-  - item: Swift (iOS)
-  - item: TypeScript
-  - item: Go
+  - item: Swift
+  - item: Objective-C
 
 frameworks:
-  - item: React Native
-  - item: React.js
-  - item: Node.js
+  - item: Cocoa
+  - item: SwiftUI
+  - item: UIKit
+  - item: Core Data
 
 tools:
   - item: Bash
   - item: Git & Github
   - item: XCode
-  - item: VSCode
 
 design:
   - item: Zeppelin
